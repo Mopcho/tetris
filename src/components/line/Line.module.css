@@ -1,0 +1,20 @@
+.line {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    width: 16px;
+    height: 16px;
+    padding: 7px;
+    background-color:#fff8dc;
+    border: 1px solid black;
+}
+
+.game-block {
+    width: 16px;
+    height: 16px;
+    padding: 7px;
+    background-color: purple;
+    border: 1px solid black;
+}
